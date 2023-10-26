@@ -12,7 +12,6 @@ root.render(
     <footer>
       <a
         href="https://github.com/YanaTikh/weather-react"
-        target="_blank"
         class="Github d-flex justify-content-center"
         title="Github"
       >
