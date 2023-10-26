@@ -9,6 +9,16 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <footer>
+      <a
+        href="https://github.com/YanaTikh/weather-react"
+        target="_blank"
+        class="Github d-flex justify-content-center"
+        title="Github"
+      >
+        GitHub by Yana Tikhonova
+      </a>
+    </footer>
   </React.StrictMode>
 );
 
